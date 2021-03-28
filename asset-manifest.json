@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/devnotes/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/devnotes/static/js/main.7214f22e.chunk.js",
+    "main.js.map": "/devnotes/static/js/main.7214f22e.chunk.js.map",
+    "runtime-main.js": "/devnotes/static/js/runtime-main.dd3dce80.js",
+    "runtime-main.js.map": "/devnotes/static/js/runtime-main.dd3dce80.js.map",
+    "static/js/2.97508c9c.chunk.js": "/devnotes/static/js/2.97508c9c.chunk.js",
+    "static/js/2.97508c9c.chunk.js.map": "/devnotes/static/js/2.97508c9c.chunk.js.map",
+    "static/js/3.b581cc82.chunk.js": "/devnotes/static/js/3.b581cc82.chunk.js",
+    "static/js/3.b581cc82.chunk.js.map": "/devnotes/static/js/3.b581cc82.chunk.js.map",
+    "index.html": "/devnotes/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/devnotes/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.97508c9c.chunk.js.LICENSE.txt": "/devnotes/static/js/2.97508c9c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/devnotes/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd3dce80.js",
+    "static/js/2.97508c9c.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.7214f22e.chunk.js"
+  ]
+}
